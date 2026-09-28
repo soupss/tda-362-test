@@ -1,0 +1,17 @@
+{
+	"InstallScripts" : 
+	[
+		"/Users/anton/Documents/uni/master/computer-graphics/tda362-labs/build/cmake_install.cmake",
+		"/Users/anton/Documents/uni/master/computer-graphics/tda362-labs/build/labhelper/cmake_install.cmake",
+		"/Users/anton/Documents/uni/master/computer-graphics/tda362-labs/build/labhelper/imgui/cmake_install.cmake",
+		"/Users/anton/Documents/uni/master/computer-graphics/tda362-labs/build/lab1-rasterization/cmake_install.cmake",
+		"/Users/anton/Documents/uni/master/computer-graphics/tda362-labs/build/lab2-textures/cmake_install.cmake",
+		"/Users/anton/Documents/uni/master/computer-graphics/tda362-labs/build/lab3-camera/cmake_install.cmake",
+		"/Users/anton/Documents/uni/master/computer-graphics/tda362-labs/build/lab4-shading/cmake_install.cmake",
+		"/Users/anton/Documents/uni/master/computer-graphics/tda362-labs/build/lab5-rendertotexture/cmake_install.cmake",
+		"/Users/anton/Documents/uni/master/computer-graphics/tda362-labs/build/lab6-shadowmaps/cmake_install.cmake",
+		"/Users/anton/Documents/uni/master/computer-graphics/tda362-labs/build/pathtracer/cmake_install.cmake",
+		"/Users/anton/Documents/uni/master/computer-graphics/tda362-labs/build/project/cmake_install.cmake"
+	],
+	"Parallel" : false
+}

@@ -1,0 +1,3 @@
+/Users/anton/Documents/uni/master/computer-graphics/tda362-labs/lab1-rasterization/build/CMakeFiles/lab1-rasterization.dir
+/Users/anton/Documents/uni/master/computer-graphics/tda362-labs/lab1-rasterization/build/CMakeFiles/edit_cache.dir
+/Users/anton/Documents/uni/master/computer-graphics/tda362-labs/lab1-rasterization/build/CMakeFiles/rebuild_cache.dir

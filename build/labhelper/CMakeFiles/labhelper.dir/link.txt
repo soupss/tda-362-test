@@ -1,0 +1,2 @@
+/usr/bin/ar qc liblabhelper.a CMakeFiles/labhelper.dir/labhelper.cpp.o CMakeFiles/labhelper.dir/Model.cpp.o CMakeFiles/labhelper.dir/hdr.cpp.o CMakeFiles/labhelper.dir/imgui_impl_sdl_gl3.cpp.o
+/usr/bin/ranlib liblabhelper.a

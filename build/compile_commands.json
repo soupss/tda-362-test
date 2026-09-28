@@ -1,0 +1,140 @@
+[
+{
+  "directory": "/Users/anton/Documents/uni/master/computer-graphics/tda362-labs/build/labhelper",
+  "command": "/usr/bin/c++ -DGLM_ENABLE_EXPERIMENTAL -D_CRT_SECURE_NO_WARNINGS -I/Users/anton/Documents/uni/master/computer-graphics/tda362-labs/labhelper -I/Users/anton/Documents/uni/master/computer-graphics/tda362-labs/external_src/stb-master -I/Users/anton/Documents/uni/master/computer-graphics/tda362-labs/external_src/tinyobjloader-1.0.6 -I/Users/anton/Documents/uni/master/computer-graphics/tda362-labs/external_src/imgui-1.51 -isystem /opt/homebrew/Cellar/sdl2/2.32.10/include/SDL2 -isystem /opt/homebrew/opt/glew/include -isystem /usr/X11R6/include -isystem /opt/homebrew/opt/glm/include -g -std=gnu++11 -arch arm64 -F/Library/Developer/CommandLineTools/SDKs/MacOSX15.sdk/System/Library/Frameworks  -O3 -o CMakeFiles/labhelper.dir/labhelper.cpp.o -c /Users/anton/Documents/uni/master/computer-graphics/tda362-labs/labhelper/labhelper.cpp",
+  "file": "/Users/anton/Documents/uni/master/computer-graphics/tda362-labs/labhelper/labhelper.cpp",
+  "output": "labhelper/CMakeFiles/labhelper.dir/labhelper.cpp.o"
+},
+{
+  "directory": "/Users/anton/Documents/uni/master/computer-graphics/tda362-labs/build/labhelper",
+  "command": "/usr/bin/c++ -DGLM_ENABLE_EXPERIMENTAL -D_CRT_SECURE_NO_WARNINGS -I/Users/anton/Documents/uni/master/computer-graphics/tda362-labs/labhelper -I/Users/anton/Documents/uni/master/computer-graphics/tda362-labs/external_src/stb-master -I/Users/anton/Documents/uni/master/computer-graphics/tda362-labs/external_src/tinyobjloader-1.0.6 -I/Users/anton/Documents/uni/master/computer-graphics/tda362-labs/external_src/imgui-1.51 -isystem /opt/homebrew/Cellar/sdl2/2.32.10/include/SDL2 -isystem /opt/homebrew/opt/glew/include -isystem /usr/X11R6/include -isystem /opt/homebrew/opt/glm/include -g -std=gnu++11 -arch arm64 -F/Library/Developer/CommandLineTools/SDKs/MacOSX15.sdk/System/Library/Frameworks  -O3 -o CMakeFiles/labhelper.dir/Model.cpp.o -c /Users/anton/Documents/uni/master/computer-graphics/tda362-labs/labhelper/Model.cpp",
+  "file": "/Users/anton/Documents/uni/master/computer-graphics/tda362-labs/labhelper/Model.cpp",
+  "output": "labhelper/CMakeFiles/labhelper.dir/Model.cpp.o"
+},
+{
+  "directory": "/Users/anton/Documents/uni/master/computer-graphics/tda362-labs/build/labhelper",
+  "command": "/usr/bin/c++ -DGLM_ENABLE_EXPERIMENTAL -D_CRT_SECURE_NO_WARNINGS -I/Users/anton/Documents/uni/master/computer-graphics/tda362-labs/labhelper -I/Users/anton/Documents/uni/master/computer-graphics/tda362-labs/external_src/stb-master -I/Users/anton/Documents/uni/master/computer-graphics/tda362-labs/external_src/tinyobjloader-1.0.6 -I/Users/anton/Documents/uni/master/computer-graphics/tda362-labs/external_src/imgui-1.51 -isystem /opt/homebrew/Cellar/sdl2/2.32.10/include/SDL2 -isystem /opt/homebrew/opt/glew/include -isystem /usr/X11R6/include -isystem /opt/homebrew/opt/glm/include -g -std=gnu++11 -arch arm64 -F/Library/Developer/CommandLineTools/SDKs/MacOSX15.sdk/System/Library/Frameworks  -o CMakeFiles/labhelper.dir/hdr.cpp.o -c /Users/anton/Documents/uni/master/computer-graphics/tda362-labs/labhelper/hdr.cpp",
+  "file": "/Users/anton/Documents/uni/master/computer-graphics/tda362-labs/labhelper/hdr.cpp",
+  "output": "labhelper/CMakeFiles/labhelper.dir/hdr.cpp.o"
+},
+{
+  "directory": "/Users/anton/Documents/uni/master/computer-graphics/tda362-labs/build/labhelper",
+  "command": "/usr/bin/c++ -DGLM_ENABLE_EXPERIMENTAL -D_CRT_SECURE_NO_WARNINGS -I/Users/anton/Documents/uni/master/computer-graphics/tda362-labs/labhelper -I/Users/anton/Documents/uni/master/computer-graphics/tda362-labs/external_src/stb-master -I/Users/anton/Documents/uni/master/computer-graphics/tda362-labs/external_src/tinyobjloader-1.0.6 -I/Users/anton/Documents/uni/master/computer-graphics/tda362-labs/external_src/imgui-1.51 -isystem /opt/homebrew/Cellar/sdl2/2.32.10/include/SDL2 -isystem /opt/homebrew/opt/glew/include -isystem /usr/X11R6/include -isystem /opt/homebrew/opt/glm/include -g -std=gnu++11 -arch arm64 -F/Library/Developer/CommandLineTools/SDKs/MacOSX15.sdk/System/Library/Frameworks  -o CMakeFiles/labhelper.dir/imgui_impl_sdl_gl3.cpp.o -c /Users/anton/Documents/uni/master/computer-graphics/tda362-labs/labhelper/imgui_impl_sdl_gl3.cpp",
+  "file": "/Users/anton/Documents/uni/master/computer-graphics/tda362-labs/labhelper/imgui_impl_sdl_gl3.cpp",
+  "output": "labhelper/CMakeFiles/labhelper.dir/imgui_impl_sdl_gl3.cpp.o"
+},
+{
+  "directory": "/Users/anton/Documents/uni/master/computer-graphics/tda362-labs/build/labhelper/imgui",
+  "command": "/usr/bin/c++ -DGLM_ENABLE_EXPERIMENTAL -D_CRT_SECURE_NO_WARNINGS -I/Users/anton/Documents/uni/master/computer-graphics/tda362-labs/external_src/imgui-1.51 -g -std=gnu++11 -arch arm64 -o CMakeFiles/imgui.dir/imgui.cpp.o -c /Users/anton/Documents/uni/master/computer-graphics/tda362-labs/external_src/imgui-1.51/imgui.cpp",
+  "file": "/Users/anton/Documents/uni/master/computer-graphics/tda362-labs/external_src/imgui-1.51/imgui.cpp",
+  "output": "labhelper/imgui/CMakeFiles/imgui.dir/imgui.cpp.o"
+},
+{
+  "directory": "/Users/anton/Documents/uni/master/computer-graphics/tda362-labs/build/labhelper/imgui",
+  "command": "/usr/bin/c++ -DGLM_ENABLE_EXPERIMENTAL -D_CRT_SECURE_NO_WARNINGS -I/Users/anton/Documents/uni/master/computer-graphics/tda362-labs/external_src/imgui-1.51 -g -std=gnu++11 -arch arm64 -o CMakeFiles/imgui.dir/imgui_draw.cpp.o -c /Users/anton/Documents/uni/master/computer-graphics/tda362-labs/external_src/imgui-1.51/imgui_draw.cpp",
+  "file": "/Users/anton/Documents/uni/master/computer-graphics/tda362-labs/external_src/imgui-1.51/imgui_draw.cpp",
+  "output": "labhelper/imgui/CMakeFiles/imgui.dir/imgui_draw.cpp.o"
+},
+{
+  "directory": "/Users/anton/Documents/uni/master/computer-graphics/tda362-labs/build/lab1-rasterization",
+  "command": "/usr/bin/c++ -DGLM_ENABLE_EXPERIMENTAL -D_CRT_SECURE_NO_WARNINGS -I/Users/anton/Documents/uni/master/computer-graphics/tda362-labs/labhelper -I/Users/anton/Documents/uni/master/computer-graphics/tda362-labs/external_src/stb-master -I/Users/anton/Documents/uni/master/computer-graphics/tda362-labs/external_src/tinyobjloader-1.0.6 -I/Users/anton/Documents/uni/master/computer-graphics/tda362-labs/external_src/imgui-1.51 -isystem /opt/homebrew/Cellar/sdl2/2.32.10/include/SDL2 -isystem /opt/homebrew/opt/glew/include -isystem /usr/X11R6/include -isystem /opt/homebrew/opt/glm/include -g -std=gnu++17 -arch arm64 -F/Library/Developer/CommandLineTools/SDKs/MacOSX15.sdk/System/Library/Frameworks  -o CMakeFiles/lab1-rasterization.dir/lab1_main.cpp.o -c /Users/anton/Documents/uni/master/computer-graphics/tda362-labs/lab1-rasterization/lab1_main.cpp",
+  "file": "/Users/anton/Documents/uni/master/computer-graphics/tda362-labs/lab1-rasterization/lab1_main.cpp",
+  "output": "lab1-rasterization/CMakeFiles/lab1-rasterization.dir/lab1_main.cpp.o"
+},
+{
+  "directory": "/Users/anton/Documents/uni/master/computer-graphics/tda362-labs/build/lab2-textures",
+  "command": "/usr/bin/c++ -DGLM_ENABLE_EXPERIMENTAL -D_CRT_SECURE_NO_WARNINGS -I/Users/anton/Documents/uni/master/computer-graphics/tda362-labs/labhelper -I/Users/anton/Documents/uni/master/computer-graphics/tda362-labs/external_src/stb-master -I/Users/anton/Documents/uni/master/computer-graphics/tda362-labs/external_src/tinyobjloader-1.0.6 -I/Users/anton/Documents/uni/master/computer-graphics/tda362-labs/external_src/imgui-1.51 -isystem /opt/homebrew/Cellar/sdl2/2.32.10/include/SDL2 -isystem /opt/homebrew/opt/glew/include -isystem /usr/X11R6/include -isystem /opt/homebrew/opt/glm/include -g -std=gnu++11 -arch arm64 -F/Library/Developer/CommandLineTools/SDKs/MacOSX15.sdk/System/Library/Frameworks  -o CMakeFiles/lab2-textures.dir/lab2_main.cpp.o -c /Users/anton/Documents/uni/master/computer-graphics/tda362-labs/lab2-textures/lab2_main.cpp",
+  "file": "/Users/anton/Documents/uni/master/computer-graphics/tda362-labs/lab2-textures/lab2_main.cpp",
+  "output": "lab2-textures/CMakeFiles/lab2-textures.dir/lab2_main.cpp.o"
+},
+{
+  "directory": "/Users/anton/Documents/uni/master/computer-graphics/tda362-labs/build/lab3-camera",
+  "command": "/usr/bin/c++ -DGLM_ENABLE_EXPERIMENTAL -D_CRT_SECURE_NO_WARNINGS -I/Users/anton/Documents/uni/master/computer-graphics/tda362-labs/labhelper -I/Users/anton/Documents/uni/master/computer-graphics/tda362-labs/external_src/stb-master -I/Users/anton/Documents/uni/master/computer-graphics/tda362-labs/external_src/tinyobjloader-1.0.6 -I/Users/anton/Documents/uni/master/computer-graphics/tda362-labs/external_src/imgui-1.51 -isystem /opt/homebrew/Cellar/sdl2/2.32.10/include/SDL2 -isystem /opt/homebrew/opt/glew/include -isystem /usr/X11R6/include -isystem /opt/homebrew/opt/glm/include -g -std=gnu++11 -arch arm64 -F/Library/Developer/CommandLineTools/SDKs/MacOSX15.sdk/System/Library/Frameworks  -o CMakeFiles/lab3-camera.dir/lab3_main.cpp.o -c /Users/anton/Documents/uni/master/computer-graphics/tda362-labs/lab3-camera/lab3_main.cpp",
+  "file": "/Users/anton/Documents/uni/master/computer-graphics/tda362-labs/lab3-camera/lab3_main.cpp",
+  "output": "lab3-camera/CMakeFiles/lab3-camera.dir/lab3_main.cpp.o"
+},
+{
+  "directory": "/Users/anton/Documents/uni/master/computer-graphics/tda362-labs/build/lab4-shading",
+  "command": "/usr/bin/c++ -DGLM_ENABLE_EXPERIMENTAL -D_CRT_SECURE_NO_WARNINGS -I/Users/anton/Documents/uni/master/computer-graphics/tda362-labs/labhelper -I/Users/anton/Documents/uni/master/computer-graphics/tda362-labs/external_src/stb-master -I/Users/anton/Documents/uni/master/computer-graphics/tda362-labs/external_src/tinyobjloader-1.0.6 -I/Users/anton/Documents/uni/master/computer-graphics/tda362-labs/external_src/imgui-1.51 -isystem /opt/homebrew/Cellar/sdl2/2.32.10/include/SDL2 -isystem /opt/homebrew/opt/glew/include -isystem /usr/X11R6/include -isystem /opt/homebrew/opt/glm/include -g -std=gnu++11 -arch arm64 -F/Library/Developer/CommandLineTools/SDKs/MacOSX15.sdk/System/Library/Frameworks  -o CMakeFiles/lab4-shading.dir/lab4_main.cpp.o -c /Users/anton/Documents/uni/master/computer-graphics/tda362-labs/lab4-shading/lab4_main.cpp",
+  "file": "/Users/anton/Documents/uni/master/computer-graphics/tda362-labs/lab4-shading/lab4_main.cpp",
+  "output": "lab4-shading/CMakeFiles/lab4-shading.dir/lab4_main.cpp.o"
+},
+{
+  "directory": "/Users/anton/Documents/uni/master/computer-graphics/tda362-labs/build/lab5-rendertotexture",
+  "command": "/usr/bin/c++ -DGLM_ENABLE_EXPERIMENTAL -D_CRT_SECURE_NO_WARNINGS -I/Users/anton/Documents/uni/master/computer-graphics/tda362-labs/labhelper -I/Users/anton/Documents/uni/master/computer-graphics/tda362-labs/external_src/stb-master -I/Users/anton/Documents/uni/master/computer-graphics/tda362-labs/external_src/tinyobjloader-1.0.6 -I/Users/anton/Documents/uni/master/computer-graphics/tda362-labs/external_src/imgui-1.51 -isystem /opt/homebrew/Cellar/sdl2/2.32.10/include/SDL2 -isystem /opt/homebrew/opt/glew/include -isystem /usr/X11R6/include -isystem /opt/homebrew/opt/glm/include -g -std=gnu++11 -arch arm64 -F/Library/Developer/CommandLineTools/SDKs/MacOSX15.sdk/System/Library/Frameworks  -o CMakeFiles/lab5-rendertotexture.dir/lab5_main.cpp.o -c /Users/anton/Documents/uni/master/computer-graphics/tda362-labs/lab5-rendertotexture/lab5_main.cpp",
+  "file": "/Users/anton/Documents/uni/master/computer-graphics/tda362-labs/lab5-rendertotexture/lab5_main.cpp",
+  "output": "lab5-rendertotexture/CMakeFiles/lab5-rendertotexture.dir/lab5_main.cpp.o"
+},
+{
+  "directory": "/Users/anton/Documents/uni/master/computer-graphics/tda362-labs/build/lab6-shadowmaps",
+  "command": "/usr/bin/c++ -DGLM_ENABLE_EXPERIMENTAL -D_CRT_SECURE_NO_WARNINGS -I/Users/anton/Documents/uni/master/computer-graphics/tda362-labs/labhelper -I/Users/anton/Documents/uni/master/computer-graphics/tda362-labs/external_src/stb-master -I/Users/anton/Documents/uni/master/computer-graphics/tda362-labs/external_src/tinyobjloader-1.0.6 -I/Users/anton/Documents/uni/master/computer-graphics/tda362-labs/external_src/imgui-1.51 -isystem /opt/homebrew/Cellar/sdl2/2.32.10/include/SDL2 -isystem /opt/homebrew/opt/glew/include -isystem /usr/X11R6/include -isystem /opt/homebrew/opt/glm/include -g -std=gnu++11 -arch arm64 -F/Library/Developer/CommandLineTools/SDKs/MacOSX15.sdk/System/Library/Frameworks  -o CMakeFiles/lab6-shadowmaps.dir/lab6_main.cpp.o -c /Users/anton/Documents/uni/master/computer-graphics/tda362-labs/lab6-shadowmaps/lab6_main.cpp",
+  "file": "/Users/anton/Documents/uni/master/computer-graphics/tda362-labs/lab6-shadowmaps/lab6_main.cpp",
+  "output": "lab6-shadowmaps/CMakeFiles/lab6-shadowmaps.dir/lab6_main.cpp.o"
+},
+{
+  "directory": "/Users/anton/Documents/uni/master/computer-graphics/tda362-labs/build/lab6-shadowmaps",
+  "command": "/usr/bin/c++ -DGLM_ENABLE_EXPERIMENTAL -D_CRT_SECURE_NO_WARNINGS -I/Users/anton/Documents/uni/master/computer-graphics/tda362-labs/labhelper -I/Users/anton/Documents/uni/master/computer-graphics/tda362-labs/external_src/stb-master -I/Users/anton/Documents/uni/master/computer-graphics/tda362-labs/external_src/tinyobjloader-1.0.6 -I/Users/anton/Documents/uni/master/computer-graphics/tda362-labs/external_src/imgui-1.51 -isystem /opt/homebrew/Cellar/sdl2/2.32.10/include/SDL2 -isystem /opt/homebrew/opt/glew/include -isystem /usr/X11R6/include -isystem /opt/homebrew/opt/glm/include -g -std=gnu++11 -arch arm64 -F/Library/Developer/CommandLineTools/SDKs/MacOSX15.sdk/System/Library/Frameworks  -o CMakeFiles/lab6-shadowmaps.dir/fbo.cpp.o -c /Users/anton/Documents/uni/master/computer-graphics/tda362-labs/lab6-shadowmaps/fbo.cpp",
+  "file": "/Users/anton/Documents/uni/master/computer-graphics/tda362-labs/lab6-shadowmaps/fbo.cpp",
+  "output": "lab6-shadowmaps/CMakeFiles/lab6-shadowmaps.dir/fbo.cpp.o"
+},
+{
+  "directory": "/Users/anton/Documents/uni/master/computer-graphics/tda362-labs/build/pathtracer",
+  "command": "/usr/bin/c++ -DGLM_ENABLE_EXPERIMENTAL -D_CRT_SECURE_NO_WARNINGS -I/Users/anton/Documents/uni/master/computer-graphics/tda362-labs/labhelper -I/Users/anton/Documents/uni/master/computer-graphics/tda362-labs/external_src/stb-master -I/Users/anton/Documents/uni/master/computer-graphics/tda362-labs/external_src/tinyobjloader-1.0.6 -I/Users/anton/Documents/uni/master/computer-graphics/tda362-labs/external_src/imgui-1.51 -isystem /opt/homebrew/Cellar/sdl2/2.32.10/include/SDL2 -isystem /opt/homebrew/opt/glew/include -isystem /usr/X11R6/include -isystem /opt/homebrew/opt/glm/include -isystem /opt/homebrew/include -g -std=gnu++17 -arch arm64 -F/Library/Developer/CommandLineTools/SDKs/MacOSX15.sdk/System/Library/Frameworks  -o CMakeFiles/pathtracer.dir/main.cpp.o -c /Users/anton/Documents/uni/master/computer-graphics/tda362-labs/pathtracer/main.cpp",
+  "file": "/Users/anton/Documents/uni/master/computer-graphics/tda362-labs/pathtracer/main.cpp",
+  "output": "pathtracer/CMakeFiles/pathtracer.dir/main.cpp.o"
+},
+{
+  "directory": "/Users/anton/Documents/uni/master/computer-graphics/tda362-labs/build/pathtracer",
+  "command": "/usr/bin/c++ -DGLM_ENABLE_EXPERIMENTAL -D_CRT_SECURE_NO_WARNINGS -I/Users/anton/Documents/uni/master/computer-graphics/tda362-labs/labhelper -I/Users/anton/Documents/uni/master/computer-graphics/tda362-labs/external_src/stb-master -I/Users/anton/Documents/uni/master/computer-graphics/tda362-labs/external_src/tinyobjloader-1.0.6 -I/Users/anton/Documents/uni/master/computer-graphics/tda362-labs/external_src/imgui-1.51 -isystem /opt/homebrew/Cellar/sdl2/2.32.10/include/SDL2 -isystem /opt/homebrew/opt/glew/include -isystem /usr/X11R6/include -isystem /opt/homebrew/opt/glm/include -isystem /opt/homebrew/include -g -std=gnu++17 -arch arm64 -F/Library/Developer/CommandLineTools/SDKs/MacOSX15.sdk/System/Library/Frameworks  -o CMakeFiles/pathtracer.dir/Pathtracer.cpp.o -c /Users/anton/Documents/uni/master/computer-graphics/tda362-labs/pathtracer/Pathtracer.cpp",
+  "file": "/Users/anton/Documents/uni/master/computer-graphics/tda362-labs/pathtracer/Pathtracer.cpp",
+  "output": "pathtracer/CMakeFiles/pathtracer.dir/Pathtracer.cpp.o"
+},
+{
+  "directory": "/Users/anton/Documents/uni/master/computer-graphics/tda362-labs/build/pathtracer",
+  "command": "/usr/bin/c++ -DGLM_ENABLE_EXPERIMENTAL -D_CRT_SECURE_NO_WARNINGS -I/Users/anton/Documents/uni/master/computer-graphics/tda362-labs/labhelper -I/Users/anton/Documents/uni/master/computer-graphics/tda362-labs/external_src/stb-master -I/Users/anton/Documents/uni/master/computer-graphics/tda362-labs/external_src/tinyobjloader-1.0.6 -I/Users/anton/Documents/uni/master/computer-graphics/tda362-labs/external_src/imgui-1.51 -isystem /opt/homebrew/Cellar/sdl2/2.32.10/include/SDL2 -isystem /opt/homebrew/opt/glew/include -isystem /usr/X11R6/include -isystem /opt/homebrew/opt/glm/include -isystem /opt/homebrew/include -g -std=gnu++17 -arch arm64 -F/Library/Developer/CommandLineTools/SDKs/MacOSX15.sdk/System/Library/Frameworks  -o CMakeFiles/pathtracer.dir/sampling.cpp.o -c /Users/anton/Documents/uni/master/computer-graphics/tda362-labs/pathtracer/sampling.cpp",
+  "file": "/Users/anton/Documents/uni/master/computer-graphics/tda362-labs/pathtracer/sampling.cpp",
+  "output": "pathtracer/CMakeFiles/pathtracer.dir/sampling.cpp.o"
+},
+{
+  "directory": "/Users/anton/Documents/uni/master/computer-graphics/tda362-labs/build/pathtracer",
+  "command": "/usr/bin/c++ -DGLM_ENABLE_EXPERIMENTAL -D_CRT_SECURE_NO_WARNINGS -I/Users/anton/Documents/uni/master/computer-graphics/tda362-labs/labhelper -I/Users/anton/Documents/uni/master/computer-graphics/tda362-labs/external_src/stb-master -I/Users/anton/Documents/uni/master/computer-graphics/tda362-labs/external_src/tinyobjloader-1.0.6 -I/Users/anton/Documents/uni/master/computer-graphics/tda362-labs/external_src/imgui-1.51 -isystem /opt/homebrew/Cellar/sdl2/2.32.10/include/SDL2 -isystem /opt/homebrew/opt/glew/include -isystem /usr/X11R6/include -isystem /opt/homebrew/opt/glm/include -isystem /opt/homebrew/include -g -std=gnu++17 -arch arm64 -F/Library/Developer/CommandLineTools/SDKs/MacOSX15.sdk/System/Library/Frameworks  -o CMakeFiles/pathtracer.dir/HDRImage.cpp.o -c /Users/anton/Documents/uni/master/computer-graphics/tda362-labs/pathtracer/HDRImage.cpp",
+  "file": "/Users/anton/Documents/uni/master/computer-graphics/tda362-labs/pathtracer/HDRImage.cpp",
+  "output": "pathtracer/CMakeFiles/pathtracer.dir/HDRImage.cpp.o"
+},
+{
+  "directory": "/Users/anton/Documents/uni/master/computer-graphics/tda362-labs/build/pathtracer",
+  "command": "/usr/bin/c++ -DGLM_ENABLE_EXPERIMENTAL -D_CRT_SECURE_NO_WARNINGS -I/Users/anton/Documents/uni/master/computer-graphics/tda362-labs/labhelper -I/Users/anton/Documents/uni/master/computer-graphics/tda362-labs/external_src/stb-master -I/Users/anton/Documents/uni/master/computer-graphics/tda362-labs/external_src/tinyobjloader-1.0.6 -I/Users/anton/Documents/uni/master/computer-graphics/tda362-labs/external_src/imgui-1.51 -isystem /opt/homebrew/Cellar/sdl2/2.32.10/include/SDL2 -isystem /opt/homebrew/opt/glew/include -isystem /usr/X11R6/include -isystem /opt/homebrew/opt/glm/include -isystem /opt/homebrew/include -g -std=gnu++17 -arch arm64 -F/Library/Developer/CommandLineTools/SDKs/MacOSX15.sdk/System/Library/Frameworks  -o CMakeFiles/pathtracer.dir/embree.cpp.o -c /Users/anton/Documents/uni/master/computer-graphics/tda362-labs/pathtracer/embree.cpp",
+  "file": "/Users/anton/Documents/uni/master/computer-graphics/tda362-labs/pathtracer/embree.cpp",
+  "output": "pathtracer/CMakeFiles/pathtracer.dir/embree.cpp.o"
+},
+{
+  "directory": "/Users/anton/Documents/uni/master/computer-graphics/tda362-labs/build/pathtracer",
+  "command": "/usr/bin/c++ -DGLM_ENABLE_EXPERIMENTAL -D_CRT_SECURE_NO_WARNINGS -I/Users/anton/Documents/uni/master/computer-graphics/tda362-labs/labhelper -I/Users/anton/Documents/uni/master/computer-graphics/tda362-labs/external_src/stb-master -I/Users/anton/Documents/uni/master/computer-graphics/tda362-labs/external_src/tinyobjloader-1.0.6 -I/Users/anton/Documents/uni/master/computer-graphics/tda362-labs/external_src/imgui-1.51 -isystem /opt/homebrew/Cellar/sdl2/2.32.10/include/SDL2 -isystem /opt/homebrew/opt/glew/include -isystem /usr/X11R6/include -isystem /opt/homebrew/opt/glm/include -isystem /opt/homebrew/include -g -std=gnu++17 -arch arm64 -F/Library/Developer/CommandLineTools/SDKs/MacOSX15.sdk/System/Library/Frameworks  -o CMakeFiles/pathtracer.dir/material.cpp.o -c /Users/anton/Documents/uni/master/computer-graphics/tda362-labs/pathtracer/material.cpp",
+  "file": "/Users/anton/Documents/uni/master/computer-graphics/tda362-labs/pathtracer/material.cpp",
+  "output": "pathtracer/CMakeFiles/pathtracer.dir/material.cpp.o"
+},
+{
+  "directory": "/Users/anton/Documents/uni/master/computer-graphics/tda362-labs/build/project",
+  "command": "/usr/bin/c++ -DGLM_ENABLE_EXPERIMENTAL -D_CRT_SECURE_NO_WARNINGS -I/Users/anton/Documents/uni/master/computer-graphics/tda362-labs/labhelper -I/Users/anton/Documents/uni/master/computer-graphics/tda362-labs/external_src/stb-master -I/Users/anton/Documents/uni/master/computer-graphics/tda362-labs/external_src/tinyobjloader-1.0.6 -I/Users/anton/Documents/uni/master/computer-graphics/tda362-labs/external_src/imgui-1.51 -isystem /opt/homebrew/Cellar/sdl2/2.32.10/include/SDL2 -isystem /opt/homebrew/opt/glew/include -isystem /usr/X11R6/include -isystem /opt/homebrew/opt/glm/include -g -std=gnu++11 -arch arm64 -F/Library/Developer/CommandLineTools/SDKs/MacOSX15.sdk/System/Library/Frameworks  -o CMakeFiles/project.dir/main.cpp.o -c /Users/anton/Documents/uni/master/computer-graphics/tda362-labs/project/main.cpp",
+  "file": "/Users/anton/Documents/uni/master/computer-graphics/tda362-labs/project/main.cpp",
+  "output": "project/CMakeFiles/project.dir/main.cpp.o"
+},
+{
+  "directory": "/Users/anton/Documents/uni/master/computer-graphics/tda362-labs/build/project",
+  "command": "/usr/bin/c++ -DGLM_ENABLE_EXPERIMENTAL -D_CRT_SECURE_NO_WARNINGS -I/Users/anton/Documents/uni/master/computer-graphics/tda362-labs/labhelper -I/Users/anton/Documents/uni/master/computer-graphics/tda362-labs/external_src/stb-master -I/Users/anton/Documents/uni/master/computer-graphics/tda362-labs/external_src/tinyobjloader-1.0.6 -I/Users/anton/Documents/uni/master/computer-graphics/tda362-labs/external_src/imgui-1.51 -isystem /opt/homebrew/Cellar/sdl2/2.32.10/include/SDL2 -isystem /opt/homebrew/opt/glew/include -isystem /usr/X11R6/include -isystem /opt/homebrew/opt/glm/include -g -std=gnu++11 -arch arm64 -F/Library/Developer/CommandLineTools/SDKs/MacOSX15.sdk/System/Library/Frameworks  -o CMakeFiles/project.dir/fbo.cpp.o -c /Users/anton/Documents/uni/master/computer-graphics/tda362-labs/project/fbo.cpp",
+  "file": "/Users/anton/Documents/uni/master/computer-graphics/tda362-labs/project/fbo.cpp",
+  "output": "project/CMakeFiles/project.dir/fbo.cpp.o"
+},
+{
+  "directory": "/Users/anton/Documents/uni/master/computer-graphics/tda362-labs/build/project",
+  "command": "/usr/bin/c++ -DGLM_ENABLE_EXPERIMENTAL -D_CRT_SECURE_NO_WARNINGS -I/Users/anton/Documents/uni/master/computer-graphics/tda362-labs/labhelper -I/Users/anton/Documents/uni/master/computer-graphics/tda362-labs/external_src/stb-master -I/Users/anton/Documents/uni/master/computer-graphics/tda362-labs/external_src/tinyobjloader-1.0.6 -I/Users/anton/Documents/uni/master/computer-graphics/tda362-labs/external_src/imgui-1.51 -isystem /opt/homebrew/Cellar/sdl2/2.32.10/include/SDL2 -isystem /opt/homebrew/opt/glew/include -isystem /usr/X11R6/include -isystem /opt/homebrew/opt/glm/include -g -std=gnu++11 -arch arm64 -F/Library/Developer/CommandLineTools/SDKs/MacOSX15.sdk/System/Library/Frameworks  -o CMakeFiles/project.dir/heightfield.cpp.o -c /Users/anton/Documents/uni/master/computer-graphics/tda362-labs/project/heightfield.cpp",
+  "file": "/Users/anton/Documents/uni/master/computer-graphics/tda362-labs/project/heightfield.cpp",
+  "output": "project/CMakeFiles/project.dir/heightfield.cpp.o"
+},
+{
+  "directory": "/Users/anton/Documents/uni/master/computer-graphics/tda362-labs/build/project",
+  "command": "/usr/bin/c++ -DGLM_ENABLE_EXPERIMENTAL -D_CRT_SECURE_NO_WARNINGS -I/Users/anton/Documents/uni/master/computer-graphics/tda362-labs/labhelper -I/Users/anton/Documents/uni/master/computer-graphics/tda362-labs/external_src/stb-master -I/Users/anton/Documents/uni/master/computer-graphics/tda362-labs/external_src/tinyobjloader-1.0.6 -I/Users/anton/Documents/uni/master/computer-graphics/tda362-labs/external_src/imgui-1.51 -isystem /opt/homebrew/Cellar/sdl2/2.32.10/include/SDL2 -isystem /opt/homebrew/opt/glew/include -isystem /usr/X11R6/include -isystem /opt/homebrew/opt/glm/include -g -std=gnu++11 -arch arm64 -F/Library/Developer/CommandLineTools/SDKs/MacOSX15.sdk/System/Library/Frameworks  -o CMakeFiles/project.dir/ParticleSystem.cpp.o -c /Users/anton/Documents/uni/master/computer-graphics/tda362-labs/project/ParticleSystem.cpp",
+  "file": "/Users/anton/Documents/uni/master/computer-graphics/tda362-labs/project/ParticleSystem.cpp",
+  "output": "project/CMakeFiles/project.dir/ParticleSystem.cpp.o"
+}
+]
